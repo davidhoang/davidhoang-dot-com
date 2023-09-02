@@ -1,0 +1,109 @@
+---
+title: "Enter Dynamic Island, a major hint at Apple's Extended Reality (XR) strategy"
+date: 2022-09-10
+draft: false
+---
+![Your Image Alt Text](/images/2022/09/img-2022-09-dynamic-island-cover.jpeg)
+
+Disclaimer: I have good friends at Apple and there is no inside information in this post. I’m not in the business of scooping and speculating as a designer and technologist. My friends are tight-lipped and that’s why they are still employed there!
+
+Last Tuesday, Apple held its annual September event which typically showcases the consumer lineup: Apple Watch, AirPods, and iPhone—the flagship consumer device for more than a decade. Since Tim Cook has led Apple as CEO, the events are more predictable—which makes sense with Cook’s ops background and supply chain emphasis. Apple fans have missed being dazzled by Steve Jobs pulling the MacBook Air out of a manila envelope and the “one more thing” moments. In addition, Mark Gurman, a reporter for Bloomberg has become the Nate Silver of Apple predictions. What did not get leaked is the software design pattern that was announced along with the iPhone 14 Pro called Dynamic Island.
+
+This name sounds like an early 2000s Fox reality dating show in the early than something that belongs in Apple’s lineup. I don't want to assume all readers are iPhone users or Apple fans and will provide a brief overview. Since the iPhone X, Apple moved from the bezels of previous iPhones to provide more end-to-end real estate. However, with the front-facing camera and other hardware at the top, a black notch is left at the top to accommodate that constraint. Other mobile devices went on to adopt the pill or hole punch shaped and wrapped the rest of the screen real estate at the top. Dynamic Land is a software object that interacts with the pill and through software and the deep blacks of the OLED display, it visually appears seamless between the hardware and software interaction.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WuEH265pUy4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+In the recent Fast Company article, [The iPhone 14 Pro ‘pill’ is the perfect symbol of Apple’s shameless UX genius](https://www.fastcompany.com/90786882/the-iphone-14-pro-pill-is-the-perfect-symbol-of-apples-shameless-ux-genius?partner=rss&utm_source=pocket_mylist), the sub-headline states: “The so-called Dynamic Island is both a masterstroke of ingenuity and shameless salesmanship, a glorious piece of useless user interface design.”
+
+I agree with this if looked at as UI for a touch interface. However, I believe Dynamic Island could be a hint at a paradigm shift of the post-smartphone era and into Extended Reality (XR)—the amalgam of experiences such as Virtual Reality (VR), Augmented Reality (AR), and Mixed Reality (MR).
+
+## Spotting the clues of paradigm shifts
+
+I love exploring new technology and speculating what directions it might take. What typically happens is people exploring possibilities, such as this mockup of Dynamic Land on the iPad by Parker Ortolani. I love and appreciate explorations like this! My critique on this is the concept is more engrained in current device interactions vs. new ones.
+
+![Your Image Alt Text](/images/2022/09/img-2022-09-10-dynamic-island-1.jpeg)
+Mockup of iPad with Dynamic Island
+
+Design exploration by Parker Ortolani
+
+When there are paradigm shifts (such as mobile to XR), we often fall back to patterns we’re accustomed to, resulting in explorations like this. My critique is Dynamic Island isn’t about surfacing features from apps for discoverability. It’s a contextual view that alerts you. Though I’m not an XR expert, I have explored it in the past, including giving a talk at try!Swift Tokyo about designing for Augmented Reality. I’m still engrained in the curiosity of where AR and XR can go.
+
+Apple has a tendency to introduce new design languages for two reasons:
+
+Creating an iconic and recognizable brand for their lineups (more on this in my previous newsletter about the iMac chin) for the purpose of distinction in selling a lineup
+
+Testing new interaction paradigms on existing hardware to iterate
+An example of the second one was during WWDC in 2014. It was observed that in the iOS 7 beta the clock icon was actually moving. A few months later, Apple went on to announce the Apple Watch in 2015. As I recall, the icon guidelines in the Human Interface Guidelines started adding circular guides for app icon work. They were prepping for the Apple Watch the entire time before our very eyes.
+
+If there is subversion in best practices, there is a good chance it’s a best practice for something else. If you think of software design as an Ecosystem, dropping into new interaction directions will take time to adapt over time. Microsoft made the hard shift with the Surface, and Apple is slowly evolving it over the course of years—different strategies.
+
+A few more examples of Apple laying the foundation:
+
+Force Touch (later known as 3D touch) was introduced on the Apple Watch but the original use case was on trackpads
+Porting over of macOS patterns to iPadOS (I’ve held this belief that it’ll eventually be OS—for better or worse)
+Continuity of documents set the foundation for Universal Control
+Perhaps the TouchBar was the prototype for Dynamic Island?
+
+## Hidden hints in Dynamic Island
+
+I've read a lot of people talk about how Dynamic Island breaks Apple's Human Interface guidelines. They do, for touch interfaces. The interface is at the top, out of reach of thumbs, and has springy animations that fluctuate and morph. It almost looks like something sentient like T-1000 from Terminator 2.
+
+The core features at the moment are very contextual, presenting status: map directions for navigation, music, showing a timer, sports score, and displaying battery power. I believe in the future this interaction isn't designed for pressing, but presented on a heads-up display (HUD). In the world of XR, content is the buttons and will act differently, hence the dynamic (pun intended) elements of this new status indicator.
+
+## Other features setting the foundation for XR
+
+Dynamic Island is the first piece of UI I felt was a clue to Apple’s XR experience. However, there are three core features already shipped that are core capabilities to an XR experience: Universal Control, Spatial Audio, and Focus Mode.
+
+### Universal Control
+
+![Your Image Alt Text](/images/blog-images/2022/09/img-2023-hype-doc-2.jpeg)
+
+Universal Control may be the mouse for the XR. In its current iteration, Universal Control is designed to allow you to control multiple Macs and iPads with a single trackpad/mouse and keyboard controlled by the operating system you have and your Apple ID.
+
+Currently, Universal Control is manipulated with your trackpad or mouse between Macs and iPads. I imagine Apple building other peripherals to support these use cases such as gloves or game controllers. This possibly could be iterated on in future generations of the Apple Pencil.
+
+### Spatial Audio
+
+![Your Image Alt Text](/images/blog-images/2022/09/img-2023-hype-doc-3.jpeg)
+
+Spatial Audio is a 3D audio technology that creates a more immersive soundscape with compatible Apple products by using dynamic head-tracking for a 'theatre-like' experience. This capability was first introduced in the Airpods Pro and Airpods Pro Max (the huge ones). The first time I turned this featured on my Airpods Pro (the small ones), I immediately said to myself, “Oh my god, this is more about AR than it is sound engineering.”
+
+Apple said that with Spatial Audio, sounds can be placed “virtually anywhere” in the hemisphere. In its current implementation, Spatial Audio is typically experienced with the media you’re listening to. As you move around your location, the audio is calibrated based on your proximity—more distant as you’re away from it and vice versa.
+
+I imagine in the future Apple will open up the different elements where Spatial Audio can be added to the environment based on different devices—HomePods, other laptops, and devices. Spatial Audio can lead to other spatial senses—video, haptic touch, etc.
+
+### Focus Mode
+
+![Your Image Alt Text](/images/blog-images/2022/09/img-2023-hype-doc-4.jpeg)
+
+In iOS 15, you might notice there are additions to your Do Not Disturb mode: Personal, Sleep, Driving, Work, and additional custom settings. Focus mode is a subtle addition to lets you personalize these modes—who can call you, apps you organize, etc. I believe this feature will evolve into something even more dynamic. With devices tied to your Apple ID and biometrics, you can see how these key features will all converge with a phone, XR headset, or even car to all come together.
+
+## Dynamic interfaces might invoke a new design language for XR
+
+### Contextual placement of views
+
+Reality is the biggest view controller to design for, and responsiveness goes beyond media queries on a website. With the combination of collision detection, the proximity of other devices, and time, interfaces will present themselves in a way that’s most relevant to you.
+
+### Buttons will be interactive content
+
+One of the first elements you might observe in the implementation of Dynamic Island is the hella springy and bouncy attributes. In more mature XR experiences, buttons won’t exist the same way we’re familiar with them—something you press intentionally and is persistent. Motion and bouncing are the visual affordances to draw an end user’s attention to interact with something—dynamic views.
+
+### Multiple layers of various alphas
+
+When identifying paradigm shifts, the z-index is your biggest clue. The z-index imagines objects on an app or site as layers—the metaphor Material Design uses heavily. Imagine this view hierarchy blown out to a 3-dimensional space, and it’ll give you a hint at XR.
+
+![Your Image Alt Text](/images/blog-images/2022/09/img-2023-hype-doc-5.jpeg)
+
+ios - View Debugging: What are the layers of view in any View Controller? -  Stack Overflow
+Example of View Hierarchy debugging in Xcode (Probably much different today)
+Dynamic Island is at the top of the z-index as a hybrid view and status indicator. You can imagine how this could be placed in a heads-up display (HUD)…or even a car dashboard.
+
+## Evolution until its revolution
+
+It may seem ridiculous that a status indicator is getting so much attention this week. I believe the interface of Dynamic Island will evolve, but the interaction paradigms will stay the same. What may seem like excessive animation and bounces may be the metaphors we need to switch from touch interfaces to XR, the same way skeuomorphic design and leather buttons helped us adopt a multi-touch interface on glass. I also could be completely wrong. I also thought Pingwould become the future of social music.
+
+Dynamic Island is more than a feature on the new iPhone and paving the way for a new interaction paradigm. What the XR experience may not look precisely like Dynamic Island but I believe it sets up the new human interface guidelines for it. If you were to test a new paradigm, it would make complete sense to release it on existing hardware to experiment with something like a notification system.
+
+With more than 14,000 apps using ARKit in the app store, Apple is laying the foundation for a post-iPhone world and establishing its [beachhead](https://en.wikipedia.org/wiki/Beachhead) to take on XR. Dynamic Island might be the first cue of what the visual interface might feel like.
+
+As the Android David in Prometheus (brilliantly played by Michael Fassbender) says, quoting T. E. Lawrence, "big things have small beginnings". Great paradigm shifts seamlessly occur right in front of you without realizing it. Dynamic Island might be the moving clock moment in iOS 7 for XR.

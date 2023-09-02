@@ -1,0 +1,38 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = 'David Hoang'
+theme = "etch"
+copyright = "©2023 David Hoang"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "about"
+    title = "About"
+    url = "/about/"
+    weight = 20
+  [[menu.main]]
+    identifier = "blog"
+    name = "blog"
+    title = "Blog"
+    url = "/blog/"
+    weight = 20
+  [[menu.main]]
+    identifier = "featured"
+    name = "featured"
+    title = "Featured"
+    url = "/featured/"
+    weight = 20
+  [[menu.main]]
+    identifier = "newsletter"
+    name = "newsletter"
+    title = "Newsletter"
+    url = "/newsletter/"
+    weight = 20
+
+  [params]
+      recent_posts_number = 10
+
+
+ 
+

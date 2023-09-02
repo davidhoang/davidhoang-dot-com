@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  {{ partial "head" . }}
+<body>
+  {{ partial "header" . }}
+    <div class="page-content">
+      <div class="grid-container grid-left">
+        <div class="grid-item">
+          <h1>{{ .Title }}</h1>
+          <p>{{ .Date.Format "January 2, 2006" }}</p><br>
+          {{ .Content }}
+        </div>
+        <div class="grid-item">
+          <div class="sidebar-content">
+            {{ partial "sidebar" . }}
+          </div>
+        </div>
+      </div>
+    </div>
+  {{ partial "footer" . }}
+</body>
+</html>

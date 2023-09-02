@@ -1,0 +1,13 @@
+---
+layout: "default"
+---
+<div class="content-sizing">
+  <H1>Blog</H1>
+  <h2>Recent blog posts</h2>
+  <ul>
+    {{ range .Site.RegularPages.ByDate.Reverse | first $.Site.Params.recent_posts_number }}
+      <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+    {{ end }}
+  </ul>
+
+</div>
