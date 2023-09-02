@@ -1,14 +1,21 @@
 {{ define "main" }}
 <div class="page-content">
 <H1>Blog</H1> 
-<h2>{{ .Title }}</h1>  <!-- This will display 'Blog' as title -->
+<h1>{{ .Title }}</h1>  <!-- This will display 'Blog' as title -->
 <ul class="blog-list">
-  {{ range where .Site.RegularPages "Type" "blog" }}
+ {{ $year := "" }}
+{{ range .Data.Pages }}
+  {{ $currentYear := .Date.Format "2006" }}
+  {{ if ne $currentYear $year }}
+    {{ $year = $currentYear }}
+    <h2>{{ $year }}</h2>
+  {{ end }}
+  {{ if eq .Type "blog" }}
     <li>
-      <a href="{{ .Permalink }}">{{ .Title }}</a>&nbsp;&nbsp;&nbsp;
-      <span class="time"><time>{{ .Date.Format "January 2, 2006" }}</time></span>
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
     </li>
   {{ end }}
+{{ end }}
 </ul>
 </div>
 {{ end }}

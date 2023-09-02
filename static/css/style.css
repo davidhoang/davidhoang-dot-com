@@ -34,9 +34,23 @@ body {
   margin: 0;
 }
 
+a {
+  color: inherit;
+  text-decoration: underline dotted;
+}
+
+a:hover {
+  color: inherit;
+  text-decoration: underline;
+}
+
 .logo {
   display: flex;
-  height: 40px;
+  height: 30px;
+}
+
+strong b {
+  font-weight: 700;
 }
 
 p {
@@ -128,7 +142,6 @@ body {
 .grid-50 {
   grid-template-columns: 1fr 1fr;
 }
-  
 
 .grid-item {
   width: 100%;
@@ -326,7 +339,7 @@ nav ul li {
 footer {
   margin-top: 48px;
   min-height: 100px;
-  background-color: #333;
+  background-color: #222;
   color: #fff;
   padding: 48px;
 }
@@ -409,6 +422,8 @@ a.footer {
 
 .blog-list li {
   margin-bottom: 8px;\
+  list-style: none;
+  line-height: 120%;
 }
 
 .blog-list li a {
@@ -445,7 +460,6 @@ button:hover {
   background-color: #666;
   transition: all 0.3s ease;
   box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
-  border-radius: 0px;
 }
 
 .time {
@@ -455,12 +469,21 @@ button:hover {
 .sidebar {
   background-color: #fff;
   padding: 16px;
+  line-height: 150%;
   margin: 0 auto;
   list-style: none;
+  box-shadow: 6px 6px #7c7c7c;
+}
+
+.sidebar ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  color: #333;
 }
 
 .sidebar-content {
-  
+  margin-top: 140px;
 }
 
 
