@@ -31,7 +31,11 @@ copyright = "©2023 David Hoang"
     weight = 20
 
   [params]
-      recent_posts_number = 10
+    recent_posts_number = 10
+
+  [outputs]
+    home = ["HTML", "RSS"]
+
 
 
  

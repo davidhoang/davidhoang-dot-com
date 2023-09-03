@@ -4,11 +4,21 @@
 <body>
   {{ partial "header" . }}
     <div class="page-content">
+      <h1>{{ .Title }}</h1>
+      <h3>{{ .Date.Format "January 2, 2006" }}</h3>
       <div class="grid-container grid-left">
         <div class="grid-item">
-          <h1>{{ .Title }}</h1>
-          <h3>{{ .Date.Format "January 2, 2006" }}</h3><br>
           {{ .Content }}
+          <div>
+            <script src="https://utteranc.es/client.js"
+        repo="davidhoang/davidhoang.com"
+        issue-term="pathname"
+        label="Comments"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+            </script>
+          </div>
         </div>
         <div class="grid-item">
           <div class="sidebar-content">
