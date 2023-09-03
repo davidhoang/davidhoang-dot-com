@@ -438,7 +438,7 @@ a.footer {
 }
 
 .home-card {
-  background-color: rgba(255, 255, 255, 0.4);
+  background-color: rgba(255, 255, 255, 0.6);
   margin-bottom: 8px;
 }
 
@@ -457,7 +457,7 @@ a.footer {
 }
 
 .blog-list li {
-  margin-bottom: 8px;\
+  margin-bottom: 8px;
   list-style: none;
   line-height: 120%;
 }
