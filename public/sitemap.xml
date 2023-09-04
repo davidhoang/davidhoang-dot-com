@@ -3,39 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/</loc>
-    <lastmod>2023-08-14T00:00:00+00:00</lastmod>
+    <lastmod>2023-09-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/blog/</loc>
+    <lastmod>2023-09-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/built-with-replit/</loc>
+    <lastmod>2023-09-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/analog-reads-with-printernet/</loc>
     <lastmod>2023-08-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2023-08-14-analog-reads-with-printernet/</loc>
-    <lastmod>2023-08-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/blog/2023-04-16-q2-2023-focus/</loc>
+    <loc>/blog/q2-2023-focus/</loc>
     <lastmod>2023-04-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/blog/crafting-a-design-leadership-portfolio/</loc>
     <lastmod>2023-01-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2023-01-movies-and-wellness/</loc>
+    <loc>/blog/movies-and-wellness/</loc>
     <lastmod>2023-01-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/blog/visiting-the-palm-springs-air-museum/</loc>
     <lastmod>2022-11-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2022-09-10-enter-dynamic-island/</loc>
+    <loc>/blog/enter-dynamic-island/</loc>
     <lastmod>2022-09-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2022-07-09-lessons-learned-from-writing-100-newsletter-issues/</loc>
+    <loc>/blog/lessons-learned-from-writing-100-newsletter-issues/</loc>
     <lastmod>2022-07-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2022-06-19-mastery-for-generalists/</loc>
+    <loc>/blog/mastery-for-generalists/</loc>
     <lastmod>2022-06-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/blog/one-year-as-an-operator-angel/</loc>
     <lastmod>2021-12-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2021-05-16-ichi-go-ichi-e/</loc>
+    <loc>/blog/ichi-go-ichi-e/</loc>
     <lastmod>2021-05-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/blog/im-joining-on-deck-as-a-design-partner/</loc>
@@ -74,13 +77,13 @@
     <loc>/blog/remembering-jeff-mcleman/</loc>
     <lastmod>2020-01-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2020-01-17-hello-santa-monica/</loc>
+    <loc>/blog/hello-santa-monica/</loc>
     <lastmod>2020-01-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/blog/seeking-walking-conversations/</loc>
     <lastmod>2020-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2019-01-07-avoid-design-re-shoots-leverage-thumbnail-sketches/</loc>
+    <loc>/blog/avoid-design-re-shoots-leverage-thumbnail-sketches/</loc>
     <lastmod>2019-01-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/blog/the-vastness-of-curiousity/</loc>
@@ -89,16 +92,13 @@
     <loc>/blog/three-years-at-one-medical/</loc>
     <lastmod>2017-01-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2016-12-18-ok-to-disconnect-the-death-of-my-ipod-classic-after-14-years/</loc>
-    <lastmod>2016-12-18T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/blog/ok-to-disconnect-the-death-of-my-ipod-classic-after-14-years/</loc>
     <lastmod>2016-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/blog/my-guiding-principles-for-2015/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2021-11-18-why-designers-should-know-how-to-write-code/</loc>
+    <loc>/blog/why-designers-should-know-how-to-write-code/</loc>
     <lastmod>2011-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/blog/decision-point/</loc>

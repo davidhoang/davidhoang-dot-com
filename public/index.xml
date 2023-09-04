@@ -1,267 +1,94 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>David Hoang</title>
     <link>/</link>
-    <description></description>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
-    <item>
-        <title>Analog Reads With Printernet</title>
-        <link>/blog/2023-08-14-analog-reads-with-printernet/</link>
-        <pubDate>Mon, 14 Aug 2023 00:00:00 &#43;0000</pubDate>
-        <description>&lt;![CDATA[I get migraine headaches from blue light and try to keep screen time at a minimum. As a result of this, my favorite mode of reading is physical paper (e-ink is great though). Printernet is an awesome experimental project that curates reads you may enjoy. It&amp;rsquo;s like an RSS feed on physical paper. They are so thoughtful about the curation and include a page on why the essay was selected for you.]]></description>
-        
-      </item><item>
-        <title>Q2 2023 is deep work, and I&#39;m not taking inbound meetings</title>
-        <link>/blog/2023-04-16-q2-2023-focus/</link>
-        <pubDate>Fri, 14 Apr 2023 00:00:00 &#43;0000</pubDate>
-        <description>&lt;![CDATA[From now until the end of June, I&amp;rsquo;m working some exciting things. First, I left Webflow and joined Replit as an Operating Partner!
-My focus for Q2 is to set up the foundation to focus on my life&amp;rsquo;s work and mission: Investing and building tools that revolutionize the way people build software. This requires Deep Work and me to be extremely disciplined with my time. As a result, I am not taking any new meetings with anyone for Q2 that doesn&amp;rsquo;t have to do with the mission.]]></description>
-        
-      </item><item>
-        <title>Crafting a Design Leadership Portfolio</title>
-        <link>/blog/crafting-a-design-leadership-portfolio/</link>
-        <pubDate>Sun, 08 Jan 2023 00:00:00 &#43;0000</pubDate>
-        <description>&lt;![CDATA[One of the top questions I get asked is what a portfolio for a manager should look like. Unsurprisingly, the answer is like any design answer: it depends. The ultimate output of a portfolio looks different based on so many factors: whether you&amp;rsquo;re in brand or product, the type of management role, and what you&amp;rsquo;re optimizing for.
-In this session, we&amp;rsquo;ll look at the goals of a manager’s portfolio, what you are optimizing for, and the core elements of a portfolio.]]></description>
-        
-      </item><item>
-        <title>Movies and Wellness</title>
-        <link>/blog/2023-01-movies-and-wellness/</link>
-        <pubDate>Wed, 04 Jan 2023 00:00:00 &#43;0000</pubDate>
-        <description>&lt;![CDATA[I love film and movies. Though I’m not an expert, I have an affinity for the visual storytelling experience either at the cinema or at home. To put it short, 2022 was a tough year for me, starting with the loss of my beloved cat of 19 years. As we crawl out of the early part of the pandemic, I found myself needing not only mental healing, but physical.]]></description>
-        
-      </item><item>
-        <title>Visiting the Palm Springs Air Museum</title>
-        <link>/blog/visiting-the-palm-springs-air-museum/</link>
-        <pubDate>Thu, 24 Nov 2022 00:00:00 &#43;0000</pubDate>
-        <description>&lt;![CDATA[I am a person that hopes there are no wars and conflicts, but have such a fascination with military technology and air superiority! It started as a kid when one of my uncles took me to the Museum of Flight in Seattle and was an avid fan of comic books and aviation. I dreamed of becoming a fighter pilot as a kid, and being color blind definitely killed that dream swiftly.]]></description>
-        
-      </item><item>
-        <title>Enter Dynamic Island, a major hint at Apple&#39;s Extended Reality (XR) strategy</title>
-        <link>/blog/2022-09-10-enter-dynamic-island/</link>
-        <pubDate>Sat, 10 Sep 2022 00:00:00 &#43;0000</pubDate>
-        <description>&lt;![CDATA[Disclaimer: I have good friends at Apple and there is no inside information in this post. I’m not in the business of scooping and speculating as a designer and technologist. My friends are tight-lipped and that’s why they are still employed there!
-Last Tuesday, Apple held its annual September event which typically showcases the consumer lineup: Apple Watch, AirPods, and iPhone—the flagship consumer device for more than a decade. Since Tim Cook has led Apple as CEO, the events are more predictable—which makes sense with Cook’s ops background and supply chain emphasis.]]></description>
-        
-      </item><item>
-        <title>Lessons Learned From Writing 100 Newsletter Issues</title>
-        <link>/blog/2022-07-09-lessons-learned-from-writing-100-newsletter-issues/</link>
-        <pubDate>Sat, 09 Jul 2022 00:00:00 &#43;0000</pubDate>
-        <description>&lt;![CDATA[This month, I hit an unexpected milestone—100 issues of my newsletter, Proof of Concept, celebrating with 100 - The 100th issue. Like many things in my life, it was serendipitous and unplanned.
-How it started I started my newsletter in December of 2019, and after eight months, I only wrote three issues. I did not have the discipline to be consistent. I was frustrated with myself not following through with all the projects I’ve wanted to do.]]></description>
-        
-      </item><item>
-        <title>Mastery for generalists</title>
-        <link>/blog/2022-06-19-mastery-for-generalists/</link>
-        <pubDate>Sun, 19 Jun 2022 00:00:00 &#43;0000</pubDate>
-        <description>&lt;![CDATA[Originally posted on Proof of Concept
-When I was the Product team at One Medical, our clinical and Ops teams were critical partners in how we shipped work. It was common to visit the offices to observe (going to gemba). During my four years at the health tech company, I learned about the various roles on clinical teams: primary care providers, registered nurses, care navigators, specialists, phlebotomists, and many more. In my research work, I spent the majority of the time with primary care providers (generalists).]]></description>
-        
-      </item><item>
-        <title>One year as an operator angel</title>
-        <link>/blog/one-year-as-an-operator-angel/</link>
-        <pubDate>Thu, 30 Dec 2021 00:00:00 &#43;0000</pubDate>
-        <description>&lt;![CDATA[Investing in tech startups has been in interest of mine since the beginning. I vividly remembering a product I worked on featured at Jason Calacanis&amp;rsquo; LAUNCH Festival in 2012. My product studio did the design and development for the iPad-first product. The experience was so inspiring seeing ambitious founders take the stage to demo their product. I had the pleasure of attending other LAUNCH festivals, seeing companies like Robinhood get their start.]]></description>
-        
-      </item><item>
-        <title>Ichi Go Ichi E: One Encounter. One Opportunity</title>
-        <link>/blog/2021-05-16-ichi-go-ichi-e/</link>
-        <pubDate>Sun, 16 May 2021 00:00:00 &#43;0000</pubDate>
-        <description>&lt;![CDATA[Ichi-go ichi-e (一期一会, literally &amp;ldquo;one time, one meeting&amp;rdquo;) is a Japanese term that describes a cultural concept often linked with famed tea master Sen no Rikyu. The term is often translated as &amp;ldquo;for this time only,&amp;rdquo; &amp;ldquo;never again,&amp;rdquo; or &amp;ldquo;one chance in a lifetime.&amp;ldquo;This Zen Buddhist saying was adapted by Samurai culture: you cannot get any moments back. The lesson being that you should make them all count. It’s a good lesson.]]></description>
-        
-      </item><item>
-        <title>I&#39;m Joining on Deck as a Design Partner</title>
-        <link>/blog/im-joining-on-deck-as-a-design-partner/</link>
-        <pubDate>Thu, 22 Apr 2021 00:00:00 &#43;0000</pubDate>
-        <description>&lt;![CDATA[I’ve been waiting to share this news and am excited to share that I&amp;rsquo;ll be joining On Deck as a Design Partner! In addition to my current role at Webflow, I’m excited to work with designers develop and grow in On Deck Design (ODD), working alongside with Mindaugas.
-Last summer I joined the inaugural On Deck Writing Fellowship. My personal experience in that cohort really solidified the vision of On Deck.]]></description>
-        
-      </item><item>
-        <title>By Design Podcast Brought to You by Abstract</title>
-        <link>/blog/by-design-podcast-brought-to-you-by-abstract/</link>
-        <pubDate>Sat, 17 Apr 2021 00:00:00 &#43;0000</pubDate>
-        <description>&lt;![CDATA[
-I had the pleasure of being on an episode of the By Design podcast, hosted by Abstract&amp;rsquo;s co-founder Josh Brewer. Check out the amazing list of guests who appears—have been learning so much from the others.
-‍Sana Rao on research: let your questions be your guide ‍David Sherwin and Mary Paynter Sherwin on the product brief: find alignment ‍Marc Hemeon on exploration: constraints unlock creativity ‍David Hoang on prototyping: failing faster is better ‍Katie Dill on reviews: how to make them more inclusive and productive ‍Joshua Goldenberg on building &amp;amp; shipping: start collaborating early ‍Fonz Morris on refinement: data is your friend ‍Evan English on outcomes and design maturity: design teams need to be nurtured ]]></description>
-        
-      </item><item>
-        <title>Design&#39;s Seat at the (Cap) Table: Part II</title>
-        <link>/blog/designs-seat-at-the-cap-table-part-2/</link>
-        <pubDate>Tue, 30 Mar 2021 00:00:00 &#43;0000</pubDate>
-        <description>&lt;![CDATA[Part 2: the value add design angel investors bring
-In part one, we discussed the value of designers getting involved in angel investing. Let’s talk about the other side of the cap table on why it’s important for an investment round to have a designer be a part of it
-“Let me know how I can be helpful” is a running joke of dudes (it’s always a dude) in Patagonia vests, particularly in Silicon Valley.]]></description>
-        
-      </item><item>
-        <title>Design&#39;s Seat at the (Cap) Table: Part I</title>
-        <link>/blog/designs-seat-at-the-cap-table-part-1/</link>
-        <pubDate>Tue, 23 Mar 2021 00:00:00 &#43;0000</pubDate>
-        <description>&lt;![CDATA[Design&amp;rsquo;s Seat at the (Cap) Table: Part I My journey as a design angel investor and why we need more
-Until recently, angel investment felt out-of-reach due to my perception of what it took to get started—a lot of capital and deal flow. The vivid dream turned into a reality when Paige Finn Doherty inspired me to make it real by investing in a syndicate she led. The experience was so inclusive it was a rude awakening for me on what’s really needed to get started.]]></description>
-        
-      </item><item>
-        <title>Jack and the Incentive Stock Options</title>
-        <link>/blog/jack-and-the-incentive-stock-options/</link>
-        <pubDate>Sat, 13 Mar 2021 00:00:00 &#43;0000</pubDate>
-        <description>&lt;![CDATA[You’ve likely heard of Jack and the Beanstalk. One day, when his mother sent him into town to buy food, he encountered a mysterious stranger who offered him magic beans, promising wealth he possibly couldn’t imagine. Instead of trading the family cow in exchange for food like his mother asked him to, Jack opted for the magic beans. Jack went to bed hungry that night, but as he woke the next morning, he saw a huge beanstalk growing in the garden reaching all the way up to the clouds.]]></description>
-        
-      </item><item>
-        <title>Jodorowskys Product Roadmap</title>
-        <link>/blog/jodorowskys-product-roadmap/</link>
-        <pubDate>Sat, 23 Jan 2021 00:00:00 &#43;0000</pubDate>
-        <description>&lt;![CDATA[I’ll share two stories you may not have heard of. These are stories of “the greatest film never made” and “the most important dead company in Silicon Valley.” This is a story about what happens when projects with uncompromising visions collide with the production process to make it happen (and keep it alive).
-In the 1970s, film director Alejandro Jodorowsky took on what people said was the impossible task, a film adaptation of Dune.]]></description>
-        
-      </item><item>
-        <title>Thank you, Brooklyn Roasting Company</title>
-        <link>/blog/thank-you-brooklyn-roasting-company/</link>
-        <pubDate>Thu, 29 Oct 2020 00:00:00 &#43;0000</pubDate>
-        <description>&lt;![CDATA[On October 21, Brooklyn Roasting Company announced it was filing for Chapter 11 bankruptcy protection and closing all if its brick-and-mortar locations in New York City. During the time of the COVID-19 pandemic, this is too common as business are struggling to stay open.
-I grew up in the Pacific Northwest but Brooklyn was the place I found a sense of home. Brooklyn Roasting Company (BRC) was my third place that I would stop in before starting the work day.]]></description>
-        
-      </item><item>
-        <title>A farewell love letter to Quartz Composer</title>
-        <link>/blog/a-farewell-love-letter-to-quartz-composer/</link>
-        <pubDate>Tue, 07 Jul 2020 00:00:00 &#43;0000</pubDate>
-        <description>&lt;![CDATA[Dear Quartz Composer,
-It became official during this virtual WWDC, you were officially deprecated. I never thought my heart would ache for the deprecation software. However, to be honest, I owe so much to you in my life, and it&amp;rsquo;s no exaggeration. Is this a love letter, or a farewell letter? Like many great loves that aren’t meant to last forever, it’s a bit of both.
-We met many times, but you weren’t my first love.]]></description>
-        
-      </item><item>
-        <title>CodeNewbie podcast - how no-code tools can help your coding</title>
-        <link>/blog/codenewbie-podcast-how-no-code-tools-can-help-your-coding/</link>
-        <pubDate>Mon, 04 May 2020 00:00:00 &#43;0000</pubDate>
-        <description>&lt;![CDATA[Earlier in the year I had the wonderful opportunity to be interviewed for the CodeNewbie podcast. I am truly honored to be interviewed and you can check it out here.]]></description>
-        
-      </item><item>
-        <title>Metal Gear Figma - Component Snakes</title>
-        <link>/blog/metal-gear-figma-component-snakes/</link>
-        <pubDate>Fri, 24 Apr 2020 00:00:00 &#43;0000</pubDate>
-        <description>&lt;![CDATA[]]></description>
-        
-      </item><item>
-        <title>The calling of IC&#39;s into management</title>
-        <link>/blog/the-calling-of-ics-into-management/</link>
-        <pubDate>Sun, 09 Feb 2020 00:00:00 &#43;0000</pubDate>
-        <description>&lt;![CDATA[The calling of IC&amp;rsquo;s into management I studied Art History in college and find the liberal arts to be one of the biggest influences in my design career. One of my favorite eras to study is Baroque art. It often brought high contrast, strong asymmetry, aestheticized violence, and remixed symbolism in its works. It’s the Tarantino era of art history. One of the artist who first caught my attention at an early age was Michaelangelo Mersi, better known as Caravaggio.]]></description>
-        
-      </item><item>
-        <title>Remembering Jeff McLeman</title>
-        <link>/blog/remembering-jeff-mcleman/</link>
-        <pubDate>Wed, 22 Jan 2020 00:00:00 &#43;0000</pubDate>
-        <description>&lt;![CDATA[Like many who knew him, I am absolutely devastated to hear the news of the passing of Jeff McLeman. I got to know McLeman while working at Black Pixel together. Though we didn&amp;rsquo;t get to work together on projects, he would come into the office every Thursday from his home in Vashon Island. If there is one thing I can point to which I cherish most about Jeff is the presence and conversations we had.]]></description>
-        
-      </item><item>
-        <title>Hello, Santa Monica</title>
-        <link>/blog/2020-01-17-hello-santa-monica/</link>
-        <pubDate>Fri, 17 Jan 2020 00:00:00 &#43;0000</pubDate>
-        <description>&lt;![CDATA[Santa Monica (originally home to the Tongva people) has always been a special place to me. Though I grew up in the Pacific Northwest, my extended family were mostly in Los Angeles. As a kid, we’d often head to Manhattan Beach and In-N-Out when visiting my aunts, uncles, and cousins. When it was a really special day, we’d take a day trip to Santa Monica and hang out at the pier.]]></description>
-        
-      </item><item>
-        <title>Seeking walking conversations</title>
-        <link>/blog/seeking-walking-conversations/</link>
-        <pubDate>Fri, 03 Jan 2020 00:00:00 &#43;0000</pubDate>
-        <description>&lt;![CDATA[As many people, I&amp;rsquo;ve been thinking about the new year (and decade) and reflect what I want to focus on. Health and wellness is something on the top of my mind. This is the year I&amp;rsquo;d like to substantially improve my health, which includes more dieting and exercise. I noticed a lot of gatherings and conversations often happen over food and drinks. Don&amp;rsquo;t get be wrong, I love such activities but they are contrary to my goal.]]></description>
-        
-      </item><item>
-        <title>Avoid Design Re-Shoots - Leverage Thumbnail Sketches</title>
-        <link>/blog/2019-01-07-avoid-design-re-shoots-leverage-thumbnail-sketches/</link>
-        <pubDate>Mon, 07 Jan 2019 00:00:00 &#43;0000</pubDate>
-        <description>&lt;![CDATA[Avoid Design Re-Shoots: Leveraging Thumbnail Sketches The role of a product designer comes with a lot of responsibilities, such as ensuring you&amp;rsquo;re making the most considered decisions since there is a downstream impact in the product development process. Designers can combat this by learning as quickly as possible. A designer has a unique skillset in which they can take requirements/problems and make it tangible in a visual way to create understanding.]]></description>
-        
-      </item><item>
-        <title>Three years at One Medical</title>
-        <link>/blog/the-vastness-of-curiousity/</link>
-        <pubDate>Thu, 03 Jan 2019 00:00:00 &#43;0000</pubDate>
-        <description>&lt;![CDATA[I have been thinking deeply about this quote from the author of one of my favorite books, The Little Prince.
-&amp;ldquo;If you want to build a ship, don’t drum up people to collect wood and don’t assign them tasks and work, but rather teach them to long for the endless immensity of the sea.&amp;quot;— Antoine de Saint Exupéry
-Though this also applies to my personal life, I often reflect on this in the work setting and with design teams.]]></description>
-        
-      </item><item>
-        <title>The vastness of curiousity</title>
-        <link>/blog/three-years-at-one-medical/</link>
-        <pubDate>Thu, 05 Jan 2017 00:00:00 &#43;0000</pubDate>
-        <description>&lt;![CDATA[Today marks my third anniversary at One Medical. Aside from my own ventures, this is the longest I&amp;rsquo;ve been at one company. It can feel like an eternity in Silicon Valley. Despite that, I feel there is still so much left to do. I&amp;rsquo;d like to share a few thoughts from the last 1,095 days.
-Embrace Change The biggest thing I&amp;rsquo;ve learned is that rather than anticipating change, prepping you and your team to embrace change is the key to a solid foundation.]]></description>
-        
-      </item><item>
-        <title>Ok to disconnect: the death of my iPod classic after 14 years</title>
-        <link>/blog/ok-to-disconnect-the-death-of-my-ipod-classic-after-14-years/</link>
-        <pubDate>Sun, 18 Dec 2016 00:00:00 &#43;0000</pubDate>
-        <description>&lt;![CDATA[It was Saturday night and I was at my San Francisco apartment listening to BT&amp;rsquo;s new album &amp;ldquo;_&amp;rdquo; on my iPod classic. I was trying to get the mood right to explore some prototypes I have been wanting to finish up. Suddenly I heard the sound all-too-familiar with other devices. The hard drive was trying to spin up…quickly, and then fading away.
-I knew what it this meant but was in denial.]]></description>
-        
-      </item><item>
-        <title>Ok to disconnect: the death of my iPod classic after 14 years</title>
-        <link>/blog/2016-12-18-ok-to-disconnect-the-death-of-my-ipod-classic-after-14-years/</link>
-        <pubDate>Sun, 18 Dec 2016 00:00:00 &#43;0000</pubDate>
-        <description>&lt;![CDATA[It was Saturday night and I was at my San Francisco apartment listening to BT&amp;rsquo;s new album &amp;ldquo;_&amp;rdquo; on my iPod classic. I was trying to get the mood right to explore some prototypes I have been wanting to finish up. Suddenly I heard the sound all-too-familiar with other devices. The hard drive was trying to spin up…quickly, and then fading away.
-I knew what it this meant but was in denial.]]></description>
-        
-      </item><item>
-        <title>My Guiding Principles for 2015</title>
-        <link>/blog/my-guiding-principles-for-2015/</link>
-        <pubDate>Thu, 01 Jan 2015 00:00:00 &#43;0000</pubDate>
-        <description>&lt;![CDATA[In the past few years I have abandoned goals/resolutions in favor of themes or guiding principles for the new year. The reason is because sometimes goals set in the past become irrelevant by the end of the year for me. Instead, I try to establish guiding principles of my areas of focus for the year and set smaller goals based on that.
-Learn Be consumed by learning. I feel I did a pretty good job at this in 2014 when I left HTC and was taking a break and working on my side projects before joining Black Pixel.]]></description>
-        
-      </item><item>
-        <title>Why Designers Should Know How to Write Code</title>
-        <link>/blog/2021-11-18-why-designers-should-know-how-to-write-code/</link>
-        <pubDate>Fri, 18 Nov 2011 00:00:00 &#43;0000</pubDate>
-        <description>&lt;![CDATA[Several years ago I was chatting with my friend Adam McDonald (now my co-founder at Xhatch) on chat. We were still undergraduates in college. He was pursuing CS and I was pursuing fine arts. He kept telling me &amp;ldquo;you need to learn to write code.&amp;rdquo; I resisted then and said &amp;ldquo;I just want to design.&amp;rdquo; McDonald is one of my best friends, so I decided to give it a try.It is one (of not THE) of the smartest decisions I&amp;rsquo;ve ever made to become an effective designer.]]></description>
-        
-      </item><item>
-        <title>Decision Point: Declining Admission for Grad School in 2009</title>
-        <link>/blog/decision-point/</link>
-        <pubDate>Fri, 09 Sep 2011 00:00:00 &#43;0000</pubDate>
-        <description>&lt;![CDATA[As I was on the Apple Store website (no surprise here), I saw the promo about the back-to-school sale. Upon reflecting, I realized that this would have been my last year of grad school at California College of the Arts in San Francisco. Let&amp;rsquo;s take a look back at the decision to decline admission:I vividly remember getting the call from the admissions office that I have been accepted for the Master of Fines Arts (MFA) program at CCA—a very prestigious school in the heart of San Francisco.]]></description>
-        
-      </item><item>
-        <title>A Lock of Love</title>
-        <link>/blog/a-lock-of-love/</link>
-        <pubDate>Thu, 21 Apr 2011 00:00:00 &#43;0000</pubDate>
-        <description>&lt;![CDATA[People might think I am completely insane after reading this blog post, but it doesn&amp;rsquo;t matter. This is how I think and feel. What can I say&amp;hellip;I&amp;rsquo;m a hopeless romantic who still believes in analog love.The other day my friend Adam and I were cowering outside along the Seine River. As the shade started moving we migrated to the other side of the river. As we crossed the Pont de l’Archevêché I saw a bunch of locks on the bridge&amp;rsquo;s railing.]]></description>
-        
-      </item><item>
-        <title>I booked a one-way flight to Europe</title>
-        <link>/blog/i-booked-a-one-way-flight-to-europe/</link>
-        <pubDate>Mon, 04 Apr 2011 00:00:00 &#43;0000</pubDate>
-        <description>&lt;![CDATA[A few months ago I quit my job that I liked at ExactTarget, to pursue something. What it was, and what it is, I am still seeking. I knew what I wanted to do: design, draw, paint, travel the world, get in adventures and use my skills to make this world a better place. Whether it&amp;rsquo;s helping someone with basic concepts of composition or be there for a friend in need, that is certainly to be determined.]]></description>
-        
-      </item><item>
-        <title></title>
-        <link>/now/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
-        <description>&lt;![CDATA[Now Learn more about Now pages Last updated: Sunday, November 13, 2022 Life I currently split time in California between Los Angeles and Palm Springs. You&#39;ll often find me in San Francisco and New York for work.
-Work I&#39;m focused on empowering everyone in the world to build and express on the internet at Webflow.
-At On Deck, I&#39;m focused on developing humans. As a Design Partner for On Deck Design, I have the pleasure facilitating community-based learning with some of the best design leaders out there.]]></description>
-        
-      </item><item>
-        <title></title>
-        <link>/newsletter/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
-        <description>&lt;![CDATA[Newsletter Proof of Concept is digital newsletter publication that explores experimentation and maximizing your creative output.
-You&#39;ll receive a free issue every Sunday. I appreciate your readership!]]></description>
-        
-      </item><item>
-        <title></title>
-        <link>/featured/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
-        <description>&lt;![CDATA[Featured A collection of conference talks, podcasts, and interviews. I try limiting to a few a year these days. Please reach out to me or I&#39;m happy to refer other speakers.
-Book me Speaking 2022 November - Front Utah: Leading and operating design orgs October - Disco Conf by Maze: Prototyping towards outcomes 2021 April - Figma Config: The Universal Challenges of Every Scaling Design Team March - Design Career Network - From Designer to Manager January - Product Hive: Lessons Learned in Prototyping 2020 December - Curiousity: The Product Development Superpower (Duke University) November - Principles and Allegories (Hyper Island) 2019 November - No Code Conference November - Productized in Lisbon, Portugal April – A panel conversation on designing for healthcare 2018 October – UXDX in Dublin, Ireland September – UX Cambridge in Cambridge, UK – An introduction to human-centred design leadership June – UX Scotland in Edinburgh, Scotland – Play the part: an introduction to technology experience prototyping June – UX Scotland in Edinburgh, Scotland – Human-Centered Design Leadership March - try!]]></description>
-        
-      </item><item>
-        <title></title>
-        <link>/contact/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
-        <description>&lt;![CDATA[ Contact ]]></description>
-        
-      </item><item>
-        <title></title>
-        <link>/about/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
-        <description>&lt;![CDATA[ About I&#39;m investing and building tools that revolutionize the internet. I&#39;m currently the Head of Design at Replit and independent angel investor and advisor for early stage startups. I&#39;ve spent the past decade leading Design &amp; Research at hyper-growth startups, including four-year stints at Webflow and One Medical. Throughout my career, I&#39;ve led multiple facets of Design including Brand Design, Content Design, Growth, Product Design, User Research, and Mobile. ]]></description>
-        
-      </item></channel>
+    <description>Recent content on David Hoang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>©2023 David Hoang</copyright>
+    <lastBuildDate>Mon, 14 Aug 2023 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  </channel>
 </rss>

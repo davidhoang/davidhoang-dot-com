@@ -1,0 +1,20 @@
+{{- printf "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?>" | safeHTML -}}
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>{{ .Site.Title }}</title>
+    <link>{{ .Site.BaseURL }}</link>
+    <description>{{ .Site.Params.description }}</description>
+    <atom:link href="{{ .Permalink }}" rel="self" type="application/rss+xml" />
+    <!-- Add other required and optional elements for your RSS feed -->
+    
+    {{- range .Site.RegularPages.ByPublishDate.Reverse -}}
+      <item>
+        <title>{{ .Title }}</title>
+        <link>{{ .Permalink }}</link>
+        <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" }}</pubDate>
+        <description><![CDATA[{{ .Summary | html }}]]></description>
+        <!-- Add other required and optional elements for each item -->
+      </item>
+    {{- end -}}
+  </channel>
+</rss>

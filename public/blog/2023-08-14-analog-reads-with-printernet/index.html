@@ -9,10 +9,11 @@
   <meta name="keywords" content="design, tech, san francisco, david hoang">
   <link rel="canonical" href="https://www.example.com/blog/post-1">
   <meta name="robots" content="index, follow">
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="/rss.xml">
   <link rel="icon" type="image/x-icon" href="/images/favicon.png" />
   <link href="https://fonts.googleapis.com/css2?family=Alegreya&display=swap" rel="stylesheet">
   <link href="/css/style.css" rel="stylesheet" type="text/css" />
-</head>
+  </head>
 <body>
   <nav class="navigation">
   <div class="logo"><a href="/"><img src="/images/logo.svg" height="30"></a></div>
@@ -84,8 +85,28 @@
     </div>
   <footer>
   <div class="footer-container">
-    <div class="footer-email"><a class="footer" href="mailto:david@davidhoang.com">david[at]davidhoang.com</a></div>
-    <div class="footer-grid grid-50">
+    <div class="grid-item">
+      <ul class="footer-social-icons">
+        <li>
+  <a href="https://www.figma.com/@davidhoang" target="_blank">
+    <img class="footer-social" src="/images/icons/icon-figma.svg" alt="Figma Icon">
+  </a>
+        </li>
+        <li>
+  <a href="http://github.com/davidhoang" target="_blank">
+    <img class="footer-social" src="/images/icons/icon-github.svg" alt="GitHub Icon">
+  </a></li>
+              <li>
+  <a href="http://twitter.com/davidhoang" target="_blank">
+    <img class="footer-social" src="/images/icons/icon-twitter.svg" alt="Twitter Icon">
+  </a></li>
+      </ul>
+    </div>
+    <div class="footer-email"><a class="footer" href="mailto:david@davidhoang.com">david[at]davidhoang.com</a>      </div>
+  <div class="grid-container-footer">
+    <div>
+      
+    <div class="grid-container grid-50">
       <div class="grid-container">
         <h3>On the web</h3>
         <ul>
@@ -98,14 +119,17 @@
         <h3>Fun shenanigans</h3>
         <ul>
           <li><a class="footer" href="https://ddj.pallet.com/jobs" target="_blank">Job board</a></li>
-          <li><a class="footer" href="#" target="_blank">GitHub</a></li>
+          <li><a href="/blog/rss.xml">Subscribe to RSS</a>
+</li>
         </ul>
       </div>
     </div>
-    <div class="footer-copyright">
-      &copy; 2023 David Hoang
     </div>
-    <div class="built-with-replit"><a href="https://bit.ly/built-with-replit" target="_blank"><img src="/images/img-built-with-replit.svg"></a></div>
+  </div>
+  <div class="footer-copyright">
+  &copy; 2023 David Hoang
+  </div>
+  <div class="built-with-replit"><a href="https://bit.ly/built-with-replit" target="_blank"><img src="/images/img-built-with-replit.svg"></a></div>
   </div>
 </footer>
 </body>

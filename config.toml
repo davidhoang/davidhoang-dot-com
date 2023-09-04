@@ -33,10 +33,8 @@ copyright = "©2023 David Hoang"
   [params]
     recent_posts_number = 10
 
-  [outputs]
-    home = ["HTML", "RSS"]
+  [outputFormats.RSS]
+    mediaType = "application/rss+xml"
+    baseName = "feed"
 
-
-
- 
-
+  

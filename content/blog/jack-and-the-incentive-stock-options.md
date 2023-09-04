@@ -22,8 +22,8 @@ For the purpose of simplicity let’s define it as between when the founders and
 - You’ll have a higher strike price than early employees and founders and much fewer shares
 - The company is likely at a stage where there is still a high risk 
 - Early impact still can be made and you’re not there to rest and vest (I hope no one ever is)
-- 
-When it was time for me to move on to my next challenge, I was presented each time to buy a handful of magic beans. I want to tell you that I understood the value of my shares at ExactTarget when I was in my mid-twenties, but I didn’t. I bought a very small handful of magic beans. There were two simple reasons: I only stayed for one year so only 25% vested and I hardly could afford to purchase the shares and the Alternative Minimum Tax (AMT) since I was early in my career. When offered a role at One Medical, about seven years after my first liquidity event, I opted for more shares instead of the max salary. This time, I stayed four years because I loved the company so much and exercised the majority of my options.
+
+When it was time for me to move on to my next challenge, I was granted a handful of magic beans. I want to tell you that I understood the value of my shares at ExactTarget when I was in my mid-twenties, but I didn’t. I bought a very small handful of magic beans. There were two simple reasons: I only stayed for one year so only 25% vested and I hardly could afford to purchase the shares and the Alternative Minimum Tax (AMT) since I was early in my career. When offered a role at One Medical, about seven years after my first liquidity event, I opted for more shares instead of the max salary. This time, I stayed four years because I loved the company so much and exercised the majority of my options.
 
 You’re going to make different decisions on options based on where you are in your life. Some people don’t have the luxury to buy stock options because they need to invest in food, for the very next day. If you are in a fortunate place to consider magic beans, let’s talk about some considerations. For reference, here’s a bit on my personal situation:
 
