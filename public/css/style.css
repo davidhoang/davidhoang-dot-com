@@ -49,6 +49,10 @@ a:hover {
   height: 30px;
 }
 
+#dh-logo {
+  fill: #333;
+}
+
 strong b {
   font-weight: 700;
 }
@@ -71,7 +75,7 @@ h2 {
   margin-top: 10px;
   margin-bottom: 10px;
   font-family: Alegreya, sans-serif;
-  font-size: 28px;
+  font-size: 2rem;
   font-weight: 700;
   line-height: 1.2;
 }
@@ -80,7 +84,7 @@ h3 {
   margin-top: 0;
   margin-bottom: 8px;
   font-family: Alegreya, sans-serif;
-  font-size: 20px;
+  font-size: 1.4rem;
   font-weight: 700;
   line-height: 1.2;
 }
@@ -90,7 +94,7 @@ h4 {
   margin-top: 10px;
   margin-bottom: 10px;
   font-family: Alegreya, sans-serif;
-  font-size: 20px;
+  font-size: 1rem;
   font-weight: 700;
   line-height: 1.4;
 }
@@ -166,7 +170,6 @@ body {
 
 .grid-item {
   width: 100%;
-  display: grid;
   align-items: start;
 }
 
@@ -188,6 +191,11 @@ body {
 /* Mobile Styles */
 @media only screen and (max-width: 600px) {
   Body {
+    font-size: 1.3rem;
+    line-height: 130%;
+  }
+  nav {
+    flex-direction: column;
     font-size: 1.2rem;
   }
   .page-content {
@@ -200,6 +208,12 @@ body {
   }
   .grid-item {
     flex-grow: 1;
+  }
+  footer {
+    padding: 16px;
+  }
+  .sidebar {
+    font-size: 1.3rem;
   }
 
   .menu-toggle {
@@ -214,33 +228,6 @@ body {
     background-color: #333;
     position: relative;
     cursor: pointer;
-  }
-  
-  .hamburger:before,
-  .hamburger:after {
-    content: "";
-    position: absolute;
-    width: 30px;
-    height: 3px;
-    background-color: #333;
-  }
-  
-  .hamburger:before {
-    top: -10px;
-  }
-  
-  .hamburger:after {
-    top: 10px;
-  }
-  
-  .menu {
-    display: none;
-  }
-  
-  .menu-toggle:checked ~ .menu {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
   }
 }
 
@@ -292,7 +279,6 @@ article {
 
 nav {
   display: flex;
-  flex-direction: row;
   align-items: center;
   padding: 8px;
   flex-grow: 1;
@@ -362,7 +348,6 @@ footer {
   margin-top: 24px;
   background-color: #222;
   color: #fff;
-  padding: 48px;
 }
 
 .footer-container {
@@ -393,7 +378,7 @@ a.footer {
 
 .footer-copyright {
   margin: 16px 0px;
-  padding-top: 16px;
+  padding: 16px 0px;
   display: flex;
   font-size: 1rem;
   flex-direction: row;
@@ -442,9 +427,17 @@ footer ul {
 /* Home classes go here */
 
 .home-hero {
+  display: flex;
+  flex-direction: column;
   text-align: center;
   padding: 24px 0px;
   border-bottom: 1px solid #CFCFCF;
+}
+
+.home-hero-buttons {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
 }
 
 .home-hero h1 {

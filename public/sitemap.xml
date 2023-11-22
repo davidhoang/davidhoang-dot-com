@@ -3,10 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/</loc>
-    <lastmod>2023-09-03T00:00:00+00:00</lastmod>
+    <lastmod>2023-10-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/blog/</loc>
-    <lastmod>2023-09-03T00:00:00+00:00</lastmod>
+    <lastmod>2023-10-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/new-role-at-replit/</loc>
+    <lastmod>2023-10-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/blog/built-with-replit/</loc>
     <lastmod>2023-09-03T00:00:00+00:00</lastmod>
@@ -37,6 +40,9 @@
   </url><url>
     <loc>/blog/one-year-as-an-operator-angel/</loc>
     <lastmod>2021-12-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/understanding-iconic-design/</loc>
+    <lastmod>2021-10-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/blog/ichi-go-ichi-e/</loc>
     <lastmod>2021-05-16T00:00:00+00:00</lastmod>
