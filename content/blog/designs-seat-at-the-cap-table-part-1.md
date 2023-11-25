@@ -4,8 +4,6 @@ date: 2021-03-23
 section: "blog"
 draft: false
 ---
-# Design's Seat at the (Cap) Table: Part I
-
 ![Your Image Alt Text](/images/2021/03/2021-03-cap-table-cover-01.jpg)
 
 
