@@ -37,4 +37,14 @@ copyright = "©2023 David Hoang"
     mediaType = "application/rss+xml"
     baseName = "feed"
 
+  [[redirects]]
+    from = "/*"
+    to = "https://davidhoang.com"
+    status = 301
+    force = true
+    entryType = "htaccess"
+
+
+  pygmentsUseClasses=true
+  pygmentsCodeFences=true
   
