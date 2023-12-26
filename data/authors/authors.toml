@@ -1,0 +1,11 @@
+# content/authors/authors.toml
+
+[[authors]]
+name = "Adam Wiggins"
+url = "https://www.adamwiggins.com"
+
+[[authors]]
+name = "Brianne Kimmel"
+url = "https://www.briannekimmel.com"
+
+# Add other authors following the same pattern

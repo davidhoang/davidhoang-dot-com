@@ -1,0 +1,13 @@
+<!-- layouts/partials/authors.html -->
+
+<ul>
+  {{ $authors := .Site.Data.authors }}
+  {{ if not $authors }}
+    {{ $authors = slice }}
+  {{ end }}
+  {{ range $authors }}
+    {{ with .url }}
+      {{ partial "author.html" . }}
+    {{ end }}
+  {{ end }}
+</ul>
