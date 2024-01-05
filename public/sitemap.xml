@@ -3,10 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/</loc>
-    <lastmod>2023-12-22T00:00:00+00:00</lastmod>
+    <lastmod>2023-12-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/blog/</loc>
-    <lastmod>2023-12-22T00:00:00+00:00</lastmod>
+    <lastmod>2023-12-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/40-things-i-learned-in-40-years/</loc>
+    <lastmod>2023-12-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/2023-year-in-review/</loc>
+    <lastmod>2023-12-30T23:32:05+00:00</lastmod>
   </url><url>
     <loc>/blog/how-to-build-a-static-site-in-replit/</loc>
     <lastmod>2023-12-22T00:00:00+00:00</lastmod>
@@ -124,6 +130,8 @@
     <loc>/contact/</loc>
   </url><url>
     <loc>/featured/</loc>
+  </url><url>
+    <loc>/link-in-bio/</loc>
   </url><url>
     <loc>/newsletter/</loc>
   </url><url>

@@ -44,7 +44,6 @@ copyright = "©2023 David Hoang"
     force = true
     entryType = "htaccess"
 
-
   pygmentsUseClasses=true
   pygmentsCodeFences=true
   

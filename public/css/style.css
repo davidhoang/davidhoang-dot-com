@@ -8,10 +8,16 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
   vertical-align: baseline;
 }
 /* Remove default styling for lists */
-ol, ul {
+ul {
   list-style: square;
   margin-left: 16px;
   margin-bottom: 8px;
+}
+
+ol {
+  list-style: decimal;
+  margin-left: 24px;
+  margin-bottom: 12px;
 }
 
 /* Reset blockquote margin and padding */
@@ -374,7 +380,6 @@ a.footer {
 }
 
 .footer-copyright {
-  margin: 16px 0px;
   padding: 16px 0px;
   display: flex;
   font-size: 1rem;
@@ -563,7 +568,6 @@ button:hover {
     text-decoration: underline;
     text-decoration-color: #333;
 }
-
 
 .built-on-replit {
   position: fixed;

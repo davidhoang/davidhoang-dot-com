@@ -2,7 +2,7 @@
 layout: "default"
 ---
 <div class="content-sizing">
-  <H1>Blog</H1>
+  <H1>Writing</H1>
   <h2>Recent blog posts</h2>
   <ul>
     {{ range .Site.RegularPages.ByDate.Reverse | first $.Site.Params.recent_posts_number }}

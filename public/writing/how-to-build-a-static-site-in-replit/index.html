@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html><head>
+  <title>David Hoang - Designer, investor, and writer</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+  <title>My Awesome Website - Home</title>
+  <meta name="description" content="The official website of David Hoang. Head of Design at Replit, previously Webflow, One Medical, Black Pixel, and ExactTarget">
+  <meta name="keywords" content="design, tech, san francisco, david hoang">
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-376884282-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-376884282-1');
+</script>
+
+  <link rel="canonical" href="https://www.example.com/blog/post-1">
+  <meta name="robots" content="index, follow">
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="/rss.xml">
+  <link rel="icon" type="image/x-icon" href="/images/favicon.png" />
+  <link href="https://fonts.googleapis.com/css2?family=Alegreya&display=swap" rel="stylesheet">
+  <link href="/css/style.css" rel="stylesheet" type="text/css" />
+  </head><body><nav class="navigation">
+  <div class="logo"><a href="/"><img id="dh-logo" src="/images/logo.svg" height="30"></a></div>
+  <div class="nav-menu">
+    <ul class="menu">
+      <li><a href="/about">About</a></li>
+      <li><a href="/featured">Featured</a></li>
+      <li><a href="/newsletter">Newsletter</a></li>
+    <li><a href="/writing">Writing</a></li>
+    </ul>
+  </div>
+</nav><main id="content">
+<article>
+    <header id="post-header">
+        <h1>How to Build a Static Site in Replit</h1>
+            <div>
+                <time>December 22, 2023</time>
+                </div>
+    </header><p>Full disclosure: I work at Replit, but I would write this even if I didn’t work there.</p>
+<p>I moved my website (<a href="http://davidhoang.com/">davidhoang.com</a>) from a site builder to Hugo, a static site framework. It’s now all edited, maintained and hosted on <a href="http://replit.com/">Replit</a>; an all-in-one software creation platform. Our aspiration is to make it the best place to go from idea to software, fast. It’s important to constantly use the product you work on. As I put my Replit customer hat on, I remain blown away by how fast it is to share your (built) idea to the world. In this issue, I’ll share my process, the benefit of static site generators, and tips on using Replit.</p>
+<h2 id="static-site-generators">Static Site Generators</h2>
+<p>When a software engineer decides to write a blog post, they usually end up coming up with an idea for an entire solution instead of writing this post. Though fun to explore, we have a tendency to over engineer. This is where Static Site Generators (SSG) are helpful. These frameworks take content and templates to generate an output of HTML/CSS/JavaScript. As the name alludes, it cannot support dynamic interactions such as server requests or end user input like with a web application. That said, static sites are great for personal websites, blogs, documentation, and many other use cases when dynamic apps. The benefits of static sites are that they&rsquo;re super fast, scalable, and can be version controlled. Most importantly, all the code and content you generate can be owned by you.</p>
+<p>Popular frameworks include Hugo (what I use), Gatsby, Next.js, and <a href="https://deno.com/blog/build-a-static-site-with-lume">Lume</a> (one for Deno I&rsquo;m dying to try). You might wonder why you’d use a static site generator instead of writing pure HTML and CSS. You can, but as the amount of content you have (such as a blog) can be a lot to manually change. Static site generators allow you to build templates, layouts, and local data to efficiently maintain the site and build the output that you can host, usually called a “public” folder. Any time you need to make an edit or create new content, you run a build and it compiles the output for you.</p>
+<p><img src="/images/2023/12/2023-12-22-cover.jpeg" alt="Your Image Alt Text"></p>
+<h2 id="getting-started-with-replit">Getting started with Replit</h2>
+<p>Last week, Replit launched <a href="https://docs.replit.com/hosting/deployments/autoscale-deployments">Autoscaling</a> and <a href="https://docs.replit.com/hosting/deployments/static-deployments">Static Deployments</a>. The latter is perfect for static sites. Replit is not only for software developers. It&rsquo;s for everyone to create software and a perfect tool for designers. If you&rsquo;re interested in diving right in for static sites, we have some for <a href="https://replit.com/@replit/Hugo#README.md">Hugo</a>, <a href="https://replit.com/@replit/Svelte?v=1">Svelte</a>, and <a href="https://replit.com/@replit/VueJS?v=1">Vue.js</a>. All you have to do is build your site, point to the public folder, select a custom domain (if you’d like), and deploy.</p>
+<p>The major pain point of building software is not learning to code, it’s setting up your development environment. Because of this, many get discouraged from learning to code because they’re stuck with package managements and figuring out the right version of NPM to use. With Replit, it handles a lot of the package management and environment for you to pick a template and start building.</p>
+<p>If you have an existing site on a CMS or website builder, you can easily move those files in with our <a href="https://replit.com/@replit/Portfolio-Site-Template?v=1#ReadMe.md">Portfolio template</a>. However, for Static Site Generators, you&rsquo;ll have to make adjustments to the file structure and markup. For example, <a href="https://gohugo.io/tools/migrations/">Hugo has migration</a> tools that you can convert and drop into Replit.</p>
+<h2 id="replit-is-your-ai-pair-programmer">Replit is your AI pair programmer</h2>
+<p>In my early career, I learned to code because of the generosity of incredible software engineers I worked with. When you pair program with someone, you get to watch them work, ask questions, and learn via osmosis as you work. With Replit AI , you can pair program with it.</p>
+<p>The last time I used a static site, was with Jekyll, in the early 2010s, when I was mainly building iOS and Ruby on Rails apps. It can feel intimidating when you&rsquo;re rusty with the new hotness. Using AI Chat as a way to brainstorm and help me think about setting up my project was so helpful. I don&rsquo;t like reading documentation and am a &ldquo;learning BY doing&rdquo; type of person. When you&rsquo;re working with Generative AI, the context in how you prompt will get you better results. This is what Replit AI generated for me. it’s a great start to get me going!</p>
+<p><img src="/images/2023/12/2023-12-22-config.jpeg" alt="Your Image Alt Text"></p>
+<p>The second way I like using Replit AI is inline editing of code. Simply select what you’d like to augment and prompt.</p>
+<p>Here’s an example of a prompt I use to clean up my CSS files:</p>
+<p>Please refactor my CSS where it can be optimized. Please do not remove any classes.</p>
+<p><img src="/images/2023/12/2023-12-22-replit-ai.jpeg" alt="Your Image Alt Text"></p>
+<p>Voila! Building sites and software with Generative AI feels more like art direction than it does writing code. Replit AI is also great for inline editing of code. When there are times I want something refactored or added, I have Replit AI edit it, review it like I&rsquo;m diffing, and approve the changes I like. Whether you&rsquo;re generating code from scratch or editing your code, it&rsquo;s a fast way to build your ideas. One thing I love to do is select my entire CSS file (I&rsquo;m old school and have one CSS file) and have Replit AI refactor it all for me. Replit AI can look out for me to fix things I might not remember to do, such as ARIA tags and other best practices.</p>
+<h2 id="mobile-app">Mobile app</h2>
+<p>Back in the day, my mobile coding stack was Pythonista (code editing), Working Copy (version control), and Cyberduck (file transfer). Now I simply use the Replit mobile app. Now I can code, edit, and deploy my work while waiting for a cold brew. Since I write blog posts in Markdown using Obsidian, publishing a blog is copying/pasting it into Replit and hitting re-deploy. Done.</p>
+<h2 id="try-it">Try it</h2>
+<p>Making software and experiences on the web should be fun. With AI-assisted interfaces, everyone will be the creative director and product owners of what they build. Using Replit has brought so much joy to coding again. You’d be surprised how customizable static site generator designs can be. Check out a few of the examples built in Hugo on <a href="https://www.awwwards.com/websites/hugo/">awwwards</a>.</p>
+<p>If you&rsquo;re interested in trying Replit, please sign up and give it a try. I&rsquo;d love to help and get product feedback from you.</p>
+<p><a href="http://replit.com/">Try Replit</a></p>
+</article>
+
+        </main><footer>
+  <div class="footer-container">
+    <div class="grid-item">
+      <ul class="footer-social-icons">
+        <li>
+  <a href="https://www.figma.com/@davidhoang" target="_blank">
+    <img class="footer-social" src="/images/icons/icon-figma.svg" alt="Figma Icon">
+  </a>
+        </li>
+        <li>
+  <a href="http://github.com/davidhoang" target="_blank">
+    <img class="footer-social" src="/images/icons/icon-github.svg" alt="GitHub Icon">
+  </a></li>
+              <li>
+  <a href="http://twitter.com/davidhoang" target="_blank">
+    <img class="footer-social" src="/images/icons/icon-twitter.svg" alt="Twitter Icon">
+  </a></li>
+<li>
+  <a href="https://letterboxd.com/davidhoang/" target="_blank">
+  <img class="footer-social" src="/images/icons/icon-letterboxd.svg" alt="Letterboxd Icon">
+  </a>
+</li>
+<li>
+  <a href="https://replit.com/@dh-replit" target="_blank">
+  <img class="footer-social" src="/images/icons/icon-replit.svg" alt="Replit Icon">
+  </a>
+</li>
+        
+      </ul>
+    </div>
+  <div class="grid-container">
+    <div>
+      
+    <div class="grid-container grid-1-3">
+      <div class="grid-container-footer">
+        <h3>On the web</h3>
+        <ul>
+          <li><a class="footer" href="#" target="_blank">Angellist</a></li>
+          <li><a class="footer" href="https://github.com/davidhoang" target="_blank">GitHub</a></li>
+          <li><a class="footer" href="https://twitter.com/davidhoang" target="_blank">Twitter</a></li>
+          <li><a class="footer">
+        </ul>
+      </div>
+      <div class="grid-container-footer">
+        <h3>Fun shenanigans</h3>
+        <ul>
+          <li><a class="footer" href="https://ddj.pallet.com/jobs" target="_blank">Job board</a></li>
+          <li><a href="https://read.cv/davidhoang" target="_blank">read.cv</a>
+            <li><a href="/now">Now</a>
+</li>
+        </ul>
+      </div>
+    </div>
+    </div>
+  </div>
+  <div class="footer-copyright">
+  &copy; 2023 David Hoang. This site is built on&nbsp<a href="https://bit.ly/built-with-replit" target="_blank">Replit</a>&nbsp;using&nbsp;<a href="https://gohugo.io/" target="_blank">Hugo</a>.
+  </div>
+  <div class="built-on-replit"><a href="https://bit.ly/built-with-replit" target="_blank"><img src="/images/img-built-on-replit.svg"></a></div>
+  </div>
+</footer></body>
+</html>
