@@ -10,4 +10,4 @@ publicDir = "public"
 
 [[ports]]
 localPort = 8080
-externalPort = 3002
+externalPort = 80
