@@ -7,6 +7,7 @@ channel = "stable-22_11"
 [deployment]
 deploymentTarget = "static"
 publicDir = "public"
+build = ["sh", "-c", "hugo"]
 
 [[ports]]
 localPort = 8080

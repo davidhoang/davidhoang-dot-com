@@ -1,11 +1,10 @@
 ---
 title: "Your career Hype Doc"
 section: "blog"
-date: 2023-08-28T00:20:21Z
-draft: true
+date: 2020-12-13
+draft: false
 ---
-
-_Note: This newsletter post is the most requested from people so I wanted to make it available for free on my website. If you want to support the newsletter you can subscribe here_
+[Originally posted on Substack](https://www.proofofconcept.pub/p/your-career-hype-doc)
 
 The end of the Gregorian calendar gets people to be quite retrospective and reflective; the year’s end, the end of the quarter, and, ah yes, the bi-annual performance reviews at work. These reviews can be anxiety-inducing already, add on a tumultuous year that is 2020, simply existing seems like enough of an accomplishment. That said, a look back can help you recall impact and outcomes both professionally and personally. As someone who has done nearly 100, people are usually surprised by all of the positive impact they did because they are so concerned about areas of improvement or what they didn’t do well.
 
@@ -38,7 +37,7 @@ A few ideas of how you can track:
 - Google Docs
 - Apple Notes
 
-![Your Image Alt Text](/images/blog-images/img-2022-09-hype-doc-1.jpeg)
+![Your Image Alt Text](/images/blog-images/img-2023-hype-doc-1.jpeg)
 
 ## Journal consistently
 

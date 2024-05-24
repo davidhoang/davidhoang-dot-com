@@ -9,7 +9,7 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 }
 /* Remove default styling for lists */
 ul {
-  list-style: square;
+  list-style: disc;
   margin-left: 16px;
   margin-bottom: 8px;
 }
@@ -78,7 +78,6 @@ h1 {
 }
 
 h2 {
-  margin-top: 10px;
   margin-bottom: 10px;
   font-family: Alegreya, sans-serif;
   font-size: 2rem;
@@ -218,7 +217,7 @@ body {
     flex-grow: 1;
   }
   footer {
-    padding: 16px;
+    padding: 48px;
   }
   .sidebar {
     font-size: 1.2rem;
@@ -363,6 +362,7 @@ footer {
 .footer-container {
   max-width: 920px;
   margin: 0 auto;
+  padding: 48px;
 }
 
 a.footer {
@@ -380,6 +380,7 @@ a.footer {
 }
 
 .footer-copyright {
+  margin-top: 24px;
   padding: 16px 0px;
   display: flex;
   font-size: 1rem;
@@ -405,7 +406,11 @@ footer ul {
 .footer-social {
   width: 24px;
   height: 24px;
-  padding: 16px;
+  padding: 8px;
+}
+
+.white {
+  background-color: #f3f3f3;
 }
 
 #content {
@@ -478,7 +483,6 @@ footer ul {
 }
 
 .blog-list {
-  list-style-type: none;
   margin: 0;
   padding: 0;
 }
@@ -578,3 +582,11 @@ button:hover {
   width: 144px;
 }
 
+
+.fractional-leadership {
+  background-color: #f3f3f3;
+  padding: 24px;
+  margin: 24px 0px;
+  border-top: 1px solid #CFCFCF;
+  border-bottom: 1px solid #CFCFCF;
+}
